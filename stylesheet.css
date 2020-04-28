@@ -1,0 +1,146 @@
+/* Base Styles */
+
+* {
+	box-sizing: border-box;
+}
+
+h1 {
+    font-family: 'Manrope', sans-serif;
+	color: #000000;
+}
+
+body {
+	background-color: rgb(246, 252, 172);
+
+}
+
+p {
+	padding: 10px;
+	margin: 0;
+}
+
+.container {
+	border: none;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 10px;
+}
+
+section {
+	border:	1px solid black;
+	background-color: #c2f7f4;
+	width: 100%;
+	height: auto;
+	font-family: 'Manrope', sans-serif;
+	color: black;
+	position: relative;
+	overflow: auto;
+	opacity: 0.8;
+}
+
+#chicken {
+	border: 1px solid black;
+	text-align: center;
+	width: 30%;
+	margin-left: 70%;
+	font-family: font-family: 'Manrope', sans-serif;
+	font-weight:bold;
+	font-size: 100%;
+	margin-bottom: 0;
+	margin-top: 0;
+    padding: 5px;
+    background-color:  #ffffff;
+	color: black;
+	
+}
+
+#beef {
+	border: 1px solid black;
+	text-align: center;
+	width: 30%;
+	margin-left: 70%;
+	font-family: font-family: 'Manrope', sans-serif;
+	font-weight: bold;
+	font-size: 125%;
+	margin-bottom: 0;
+	margin-top: 0;
+	padding: 5px;
+	background-color:  #ffffff;
+	color: black;
+}
+
+#sushi {
+	border: 1px solid black;
+	text-align: center;
+	width: 30%;
+	margin-left: 70%;
+	font-family: font-family: 'Manrope', sans-serif;
+	font-weight: bold;
+	font-size: 125%;
+	margin-bottom: 0;
+	margin-top: 0;
+	background-color: #ffffff;
+	color: black;
+	padding: 5px;
+}
+
+#chicken-div {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+#beef-div {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+#sushi-div {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.navbar-brand {
+  font-size: 2em;
+  border: 0 0 10px 10px;
+  color: green;
+}
+
+#header-nav {
+  border: 0;
+  background-color: #cecece;
+  color: black;
+
+
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #5399a5;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+.nav-header {
+  background-color: black;
+}
+
+.nav-brand {
+  color: black;
+  font-size: 1.5em;
+}
+
+#nav-list {
+  color: rgb(103, 198, 241);
+}
+
+hr {
+  border-color: rgb(38, 255, 67);
+}
+
+.foodie {
+  color: black;
+  font-size: 1.2em;
+}
